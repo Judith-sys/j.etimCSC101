@@ -1,0 +1,29 @@
+PAU SMIS
+
+Student
+
+Oluthi Mordi
+ACC10211111
+Accounting
+300
+
+Adams Aliyu
+EC010110101
+Economics
+100
+
+Shania Bolade
+C5C10528825
+Computer
+200
+
+Adekunle Gold
+FEE11000202
+Electrical
+200
+
+Blanca Ldemoh
+MEE10202001
+Mechanical
+100
+

@@ -1,0 +1,25 @@
+Name: Oluchi Mordi
+Matric Number: ACC1021111
+Department: Accounting
+Level: 100
+
+Name: Adams Aliyu
+Matric Number: ECO1011001
+Department: Economics
+Level: 100
+
+Name: Shania Bolade
+Matric Number: CSC1038282
+Department: Computer
+Level: 200
+
+Name: Adekunle Godi
+Matric Number: EEE1102020
+Department: Electrical
+Level: 200
+
+Name: Blanca Edemoh
+Matric Number: MEE1020201
+Department: Mechanical
+Level: 100
+
